@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Share-prompts is a Next.js full-stack app that generates prompts. This is my first app in Next.js to learn about this exciting React Framework.
+
+https://share-prompts-3ucp1ciq4-studiosnabeel.vercel.app/
 
 ## Getting Started
 
