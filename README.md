@@ -1,6 +1,6 @@
 Share-prompts is a Next.js full-stack app that generates prompts. This is my first app in Next.js to learn about this exciting React Framework.
 
-https://share-prompts-3ucp1ciq4-studiosnabeel.vercel.app/
+[Deploy link to Promptopia app](https://share-prompts-a1it0jdt3-studiosnabeel.vercel.app/)
 
 ## Getting Started
 
